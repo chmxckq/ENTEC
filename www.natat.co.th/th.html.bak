@@ -1,0 +1,1690 @@
+<!DOCTYPE html>
+<html lang="th" class="loading">
+<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<title>NAT Absolute Technologies PCL</title>
+
+	<!-- Fonts -->
+	<link
+		href="https://fonts.googleapis.com/css2?family=Kanit:ital,wght@0,100;0,200;0,300;0,400;0,500;0,700;1,100;1,200;1,300;1,400;1,500;1,700&amp;display=swap"
+		rel="stylesheet">
+
+	<!-- Styles -->
+	<link rel="stylesheet" type="text/css" href="css/app.css">
+
+	<!-- IE -->
+	<link rel="shortcut icon" type="image/x-icon" href="images/favicon.ico" />
+	<!-- other browsers -->
+	<link rel="icon" type="image/x-icon" href="images/favicon.ico" />
+
+    <link rel="stylesheet" href="css/javascript.fullPage.css">
+<link rel="stylesheet" href="css/splide.min.css">
+
+</head>
+
+<body>
+	<header>
+    <nav class="navbar navbar-expand-xl fixed-top bg-white">
+        <div class="container-fluid">
+            <a class="navbar-brand me-5" href="index.html">
+                <img src="images/logo.png" width="120" />
+            </a>
+            <div class="d-flex align-items-center">
+                <div class="d-flex d-xl-none px-2">
+                    <a href="https://web.facebook.com/NATCONS.TEAM/" class="btn btn-sm btn-link btn-icon bg-primary position-relative" target="_blank">
+                        <i class="fa fa-fb" aria-hidden="true"></i>
+                    </a>
+                                        <a href="en.html" class="btn btn-sm btn-outline-primary btn-icon rounded ms-2">
+                        EN
+                    </a>
+                                    </div>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarHeader"
+                    aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+            </div>
+            <div class="collapse navbar-collapse" id="navbarHeader">
+                <ul class="navbar-nav me-auto mb-2 mb-md-0">
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" role="button" id="dropdownMenuAbout" data-bs-toggle="dropdown" aria-expanded="false">เกี่ยวกับเรา</a>
+                        <div class="dropdown-menu" aria-labelledby="dropdownMenuAbout">
+                            <div class="sub-menu">
+                                <div>
+                                    <a href="en/vision-and-mission.html">ประวัติความเป็นมา วิสัยทัศน์ และ พันธกิจ</a>
+                                </div>
+                                <div>
+                                    <a href="en/board-structure.html">โครงสร้างการจัดการแผนผังองค์กร</a>
+                                </div>
+                                <div>
+                                    <a href="en/role-company.html">กฏบัตร และ นโยบายต่างๆ</a>
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" role="button" id="dropdownMenuService" data-bs-toggle="dropdown" aria-expanded="false">โซลูชั่นและบริการของเรา</a>
+                        <div class="dropdown-menu" aria-labelledby="dropdownMenuService">
+                            <div class="sub-menu">
+                                <div>
+                                    <a href="en/it-communication.html">ธุรกิจจำหน่ายและติดตั้งอุปกรณ์ที่เกี่ยวข้องกับเทคโนโลยีสารสนเทศ และการสื่อสาร</a>
+                                </div>
+                                <div>
+                                    <a href="en/it-service.html">ธุรกิจให้บริการเจ้าหน้าที่ไอที</a>
+                                </div>
+                                <div>
+                                    <a href="en/it-others.html">ธุรกิจให้บริการอื่นๆ ที่เกี่ยวข้องกับระบบเทคโนโลยีสารสนเทศ</a>
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="en/partner.html">พันธมิตรหลัก</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="en/customer.html">ลูกค้าของเรา</a>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" role="button" id="dropdownMenuInvestor" data-bs-toggle="dropdown" aria-expanded="false">นักลงทุนสัมพันธ์</a>
+                        <div class="dropdown-menu" aria-labelledby="dropdownMenuInvestor">
+                            <div class="sub-menu">
+                                <div>
+                                    <a href="index.html#page5">ข้อมูลสำคัญทางการเงิน</a>
+                                </div>
+                                <div>
+                                    <a href="en/investor-contact.html">ติดต่อนักลงทุนสัมพันธ์</a>
+                                </div>
+                                <div>
+                                    <a href="en/investor-policy.html">นโยบายการจ่ายเงินปันผล</a>
+                                </div>
+                                <div>
+                                    <a href="en/investor-appeal.html">ช่องทางการร้องเรียน</a>
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="en/it-development.html">การพัฒนาที่ยั่งยืน</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="en/it-news.html">ข่าวสารความเคลื่อนไหว</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="en/it-jobs.html">ร่วมงานกับเรา</a>
+                    </li>
+                </ul>
+                <div class="d-none d-xl-flex">
+                    <a href="https://web.facebook.com/NATCONS.TEAM/" class="btn btn-sm btn-link btn-icon bg-primary position-relative" target="_blank">
+                        <i class="fa fa-fb" aria-hidden="true"></i>
+                    </a>
+                                        <a href="en.html" class="btn btn-sm btn-outline-primary btn-icon rounded ms-2">
+                        EN
+                    </a>
+                                    </div>
+            </div>
+        </div>
+    </nav>
+</header>
+	
+    <div class="content-container">
+        <div id="home" style="visibility: hidden">
+  <div id="fullpage">
+    <div class="section" id="section0">
+      <div class="slide">
+    <div class="content">
+        <div class="caption">
+            <div>
+                <div class="slide1-row1">พันธมิตรด้านไอทีที่เชื่อถือได้ของคุณ</div>
+                <div class="slide1-row2">&quot;เพราะเราเป็นที่ปรึกษาไอทีระดับอาชีพ&quot;</div>
+                <div class="slide1-row3">เราเป็นผู้ให้บริการโซลูชั่นด้านเทคโนโลยีสารสนเทศที่มีความเชี่ยวชาญในการนำเสนอสิ่งที่เหนือกว่าด้วยนวัตกรรมที่พัฒนาตลอดเวลา เพื่อบริการที่ทำให้ลูกค้ามีความพึงพอใจและประทับใจมากที่สุด</div>   
+            </div>
+        </div>
+    </div>
+</div>
+<div class="slide">
+    <div class="content">
+        <div class="caption">
+            <div>
+                <div class="background-video">
+                    <video playsinline muted loop class="video">
+                            <source src="images/backgrounds/home-bg-02.webm" type="video/webm">
+                            <source src="images/backgrounds/home-bg-02.mp4" type="video/mp4">
+                        Your browser does not support the video tag.
+                    </video> 
+                    <div class="filter-this filter-blur"></div>
+                </div> 
+                <!--div class="slide2-row1">เรามุ่งมั่นที่จะพัฒนาเพื่อขับเคลื่อนสังคมดิจิทัลในประเทศไทย การันตีคุณภาพด้วย</div>
+                <div class="slide2-row2">DELL PARTNER ระดับสูงสุด &quot;TITANIUM&quot;</div>
+                <div class="slide2-row3">ซึ่งต้องรักษายอดขายมากกว่า 200 ล้านบาท ต่อปี</div-->
+            </div>
+        </div>
+    </div>
+</div>
+<div class="slide">
+    <div class="content">
+        <div class="caption">
+            <div>
+                <div class="background-video">
+                    <video playsinline muted loop class="video">
+                            <source src="images/backgrounds/home-bg-03.webm" type="video/webm">
+                            <source src="images/backgrounds/home-bg-03.mp4" type="video/mp4">
+                        Your browser does not support the video tag.
+                    </video> 
+                    <div class="filter-this filter-white"></div>
+                </div> 
+                <div class="slide3-row1">เราให้บริการคำปรึกษา ออกแบบ จัดหาจำหน่ายอุปกรณ์พร้อมติดตั้ง</div>
+                <div class="slide3-row2">SYSTEM INTEGRATOR &quot;SI&quot;</div>
+                <div class="slide3-row3">แสกนเพื่อดูสินค้าและบริการ <img src="images/qr-brochue.png" width="80"/></div>
+
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="fixed-xl-bottom custom-bottom">
+
+    <a href="en/contact-us.html" class="btn btn-secondary text-white btn-bottom mb-5">ติดต่อเรา</a>
+
+    <ul class="nav-button">
+        <li class="order-4 order-xl-1">
+
+                <div class="d-flex">
+                    <div class="left-panel"><img src="images/icons/heart.png" /></div>
+                    <div class="right-panel">
+                        <div>150+</div>
+                        <div class="tagline">ทุนจดทะเบียน(ล้านบาท)</div>
+                    </div>
+                </div>
+  
+        </li>
+        <li class="order-3 order-xl-2">
+            <a href="javascript:void(0)">
+                <div class="d-flex">
+                    <div class="left-panel"><img src="images/icons/box.png" /></div>
+                    <div class="right-panel">
+                        <div>19+</div>
+                        <div class="tagline">ประสบการณ์ความชำนาญ</div>
+                    </div>
+                </div>
+            </a>     
+        </li>
+        <li class="order-2 order-xl-3">
+            <a href="en/vision-and-mission.html#our-awards">
+                <div class="d-flex">
+                    <div class="left-panel"><img src="images/icons/alt.png" /></div>
+                    <div class="right-panel">
+                        <div>15+</div>
+                        <div class="tagline">รางวัลการันตีคุณภาพ</div>
+                    </div>
+                </div>
+            </a>     
+        </li>
+        <li class="order-1 order-xl-4">
+            <a href="javascript:void(0)" v-on:click="gotoSlide(3, 'page1')">
+                <div class="d-flex">
+                    <img src="images/logos/dell.png" />
+                </div>
+            </a>     
+        </li>
+    </ul>
+
+    <ul class="nav-slide">
+        <li v-on:click="gotoSlide(1, 'page1')" v-bind:class="{'active': slidePage1Current === 0}"></li>
+        <li v-on:click="gotoSlide(2, 'page1')" v-bind:class="{'active': slidePage1Current === 1}"></li>
+        <li v-on:click="gotoSlide(3, 'page1')" v-bind:class="{'active': slidePage1Current === 2}"></li>
+    </ul>
+</div>    </div>
+    <div class="section" id="section1">
+      <div class="content is-desktop">
+    <section id="skew-slider">
+        <div class="slider-content">
+            <div class="image image-first" data-href="" data-click="0" data-image-index="1">
+                <div class="slider-item">
+                    <div class="item-img-1" data-src="en/home-bg-section1-01.html"></div>
+                    <div class="item-img-2" data-src="en/home-bg-section1-01.html"></div>
+                </div>
+            </div>
+            <div class="image" data-href="#" data-click="0" data-image-index="2">
+                <div class="slider-item">
+                    <div class="item-img-1" data-src="en/home-bg-section1-02.html"></div>
+                    <div class="item-img-2" data-src="en/home-bg-section1-02.html"></div>
+                </div>
+            </div>
+            <div class="image" data-href="#" data-click="0" data-image-index="3">
+                <div class="slider-item">
+                    <div class="item-img-1" data-src="en/home-bg-section1-03.html"></div>
+                    <div class="item-img-2" data-src="en/home-bg-section1-03.html"></div>
+                </div>
+            </div>
+        </div>
+        <div class="image-text section1">
+            <div class="header-line">System Integator</div>
+            <div class="content">ให้คำปรึกษาออกแบบโซลูชั่นด้านเทคโนโลยีสารสนเทศ<br />และการสื่อสารโทรคมนาคมแบบครบวงจร</div>
+            <button v-on:click="gotoURL('it-communication')" class="btn btn-secondary text-white">เพิ่มเติม</button>
+        </div>
+        <div class="image-text section2">
+            <div class="header-line">IT Outsourcing</div>
+            <div class="content">จัดหาบุคลากรที่มีความเชี่ยวชาญด้านIT เพื่อไปควบคุม<br />ดูแลแก้ไขระบบต่างๆประจำหน้างานที่ลูกค้าต้องการ</div>
+            <button v-on:click="gotoURL('it-service')" class="btn btn-secondary text-white">เพิ่มเติม</button>
+        </div>
+        <div class="image-text section3">
+            <div class="header-line">Other service</div>
+            <div class="content">ให้บริการเดินสายระบบเน็ตเวิร์ค<br />(ระบบแลน ระบบไฟฟ้า และระบบโทรศัพท์)<br />ทั้งในและนอกอาคารโดยมืออาชีพที่พร้อมให้บริการ</div>
+            <button v-on:click="gotoURL('it-others')" class="btn btn-secondary text-white">เพิ่มเติม</button>
+        </div>
+        
+    </section>
+</div>      <div class="content is-mobile">
+    <div class="accordion accordin-white">
+        <div class="accordion-item">
+          <h2 class="accordion-header">
+            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+              data-bs-target="#panelsStayOpen-1" aria-expanded="false" aria-controls="panelsStayOpen-1">
+              <div class="text-primary pe-3">ธุรกิจจำหน่ายและติดตั้งอุปกรณ์ที่เกี่ยวข้องกับเทคโนโลยีสารสนเทศ และการสื่อสาร</div>
+            </button>
+          </h2>
+          <div id="panelsStayOpen-1" class="accordion-collapse collapse">
+            <div class="accordion-body">
+                <div>
+                    <img src="images/backgrounds/home-bg-section1-01.png" class="img-fluid" />
+                    <div class="filter-this filter-primary"></div>
+                    <div class="abosolute-content">
+                        <div class="text-center">
+                            <p class="text-white">ให้คำปรึกษาออกแบบโซลูชั่นด้านเทคโนโลยีสารสนเทศ<br />และการสื่อสารโทรคมนาคมแบบครบวงจร</p>
+                            <button v-on:click="gotoURL(section1URL)" class="btn btn-primary text-white px-5 rounded-pill">เพิ่มเติม</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+          </div>
+        </div>
+        <div class="accordion-item">
+            <h2 class="accordion-header">
+              <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                data-bs-target="#panelsStayOpen-2" aria-expanded="false" aria-controls="panelsStayOpen-2">
+                <div class="text-primary pe-3">ธุรกิจให้บริการเจ้าหน้าที่ไอที</div>
+              </button>
+            </h2>
+            <div id="panelsStayOpen-2" class="accordion-collapse collapse">
+                <div class="accordion-body">
+                    <div>
+                        <img src="images/backgrounds/home-bg-section1-02.jpg" class="img-fluid" />
+                        <div class="filter-this filter-primary"></div>
+                        <div class="abosolute-content">
+                            <div class="text-center">
+                              <p class="text-white">จัดหาบุคลากรที่มีความเชี่ยวชาญด้านIT เพื่อไปควบคุม<br />ดูแลแก้ไขระบบต่างๆประจำหน้างานที่ลูกค้าต้องการ</p>
+                                <button v-on:click="gotoURL(section1URL)" class="btn btn-primary text-white px-5 rounded-pill">เพิ่มเติม</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+          </div>
+          <div class="accordion-item">
+            <h2 class="accordion-header">
+              <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                data-bs-target="#panelsStayOpen-3" aria-expanded="false" aria-controls="panelsStayOpen-3">
+                <div class="text-primary pe-3">ธุรกิจให้บริการอื่นๆ ที่เกี่ยวข้องกับระบบเทคโนโลยีสารสนเทศ</div>
+              </button>
+            </h2>
+            <div id="panelsStayOpen-3" class="accordion-collapse collapse">
+                <div class="accordion-body">
+                    <div>
+                        <img src="images/backgrounds/home-bg-section1-03.png" class="img-fluid" />
+                        <div class="filter-this filter-primary"></div>
+                        <div class="abosolute-content">
+                            <div class="text-center">
+                              <p class="text-white">ให้บริการเดินสายระบบเน็ตเวิร์ค<br />(ระบบแลน ระบบไฟฟ้า และระบบโทรศัพท์)<br />ทั้งในและนอกอาคารโดยมืออาชีพที่พร้อมให้บริการ</p>
+                                <button v-on:click="gotoURL(section1URL)" class="btn btn-primary text-white px-5 rounded-pill">เพิ่มเติม</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+          </div>
+      </div>
+</div>    </div>
+    <div class="section" id="section2">
+      <div class="content is-desktop">
+    <div class="background-video">
+        <video playsinline muted loop class="video">
+            
+                <source src="images/backgrounds/home-bg-section2.webm" type="video/webm">
+                <source src="images/backgrounds/home-bg-section2.mp4" type="video/mp4">
+            Your browser does not support the video tag.
+        </video> 
+    </div>
+    <div class="company-logo is-responsive">
+        <div class="header">
+            <div>พันธมิตรหลักของ NAT</div>
+        </div>
+        <!--div class="logo">
+            <div class="nokia"></div>
+            <div class="dell"></div>
+            <div class="microsoft"></div>
+            <div class="trellix"></div>
+            <div class="radware "></div>
+            <div class="infoblox"></div>
+            <div class="fortinet"></div>
+            <div class="zte"></div>
+            <div class="genesys"></div>
+            <div class="gigamon"></div>
+            <div class="vmware"></div>
+            <div class="huawei"></div>
+            <div class="cyberark"></div-->
+        </div>
+    </div>
+    <div class="fixed-xl-bottom custom-bottom report is-responsive">
+        <a href="en/partner.html" class="btn btn-secondary text-white btn-bottom transparent mt-5">เพิ่มเติม</a>
+    </div>
+</div>      <div class="content is-mobile">
+  <div>
+    <div class="background-video">
+      <video playsinline muted loop class="video">
+        
+        <source src="images/backgrounds/home-bg-section2.webm" type="video/webm">
+        <source src="images/backgrounds/home-bg-section2.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+    </div>
+    <div class="filter-this filter-primary"></div>
+    <div class="relative-content">
+      <div class="text-center">
+        <div class="company-logo is-responsive">
+          <div class="header">
+            <div>พันธมิตรหลักของ NAT</div>
+          </div>
+          <div class="logo">
+            <div class="dell"></div>
+            <div class="break-line"></div>
+            <div class="genesys"></div>
+            <div class="trellix"></div>
+            <div class="break-line"></div>
+            <div class="fortinet"></div>
+            <div class="radware"></div>
+          </div>
+          <a href="en/partner.html" class="btn btn-secondary text-white px-5 my-3 rounded-pill">เพิ่มเติม</a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</div>    </div>
+    <div class="section" id="section3">
+      <div class="content is-desktop">
+    <div class="background-video">
+        <video playsinline muted loop class="video">
+            
+                <source src="images/backgrounds/home-bg-section3.webm" type="video/webm">
+                <source src="images/backgrounds/home-bg-section3.mp4" type="video/mp4">
+            Your browser does not support the video tag.
+        </video> 
+    </div>
+    <div class="company-logo is-responsive">
+        <div class="header">
+            <div>สถานีสับเปลี่ยนแบตเตอรี่</div>
+        </div>
+        <!--div class="logo is-responsive">
+            <div class="toyota"></div>
+            <div class="delta"></div>
+            <div class="essilor"></div>
+            <div class="nt"></div>
+            <div class="thaipost"></div>
+            <div class="fujitsu"></div>
+            <div class="egat"></div>
+            <div class="toyota-tsusho"></div>
+            <div class="nissan"></div>
+            <div class="rama"></div>
+            <div class="trueidc"></div-->
+        </div>
+    </div>
+    <div class="fixed-xl-bottom custom-bottom report is-responsive">
+        <!--div class="other-logo">
+            <div class="ascend"></div>
+            <div class="siamtoyota"></div>
+            <div class="softbank"></div>
+            <div class="syngenta"></div>
+            <div class="amityeko"></div>
+            <div class="dtgo"></div>
+            
+            <div class="swc"></div>
+            <div class="eltek"></div>
+            <div class="bangkokunited"></div>
+            <div class="bayer"></div--> 
+        </div>
+    </div>
+</div>      <div class="content is-mobile">
+  <div>
+    <div class="background-video">
+      <video playsinline muted loop class="video">
+        
+        <source src="images/backgrounds/home-bg-section3.webm" type="video/webm">
+        <source src="images/backgrounds/home-bg-section3.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+    </div>
+    <div class="filter-this filter-primary"></div>
+    <div class="relative-content pb-3">
+      <div class="text-center">
+        <div class="company-logo is-responsive">
+          <div class="header">
+            <div>ลูกค้าของเรา</div>
+          </div>
+          <div class="logo">
+            <div class="nt"></div>
+            <div class="break-line"></div>
+            <div class="egat"></div>
+            <div class="toyota"></div>
+            <div class="break-line"></div>
+            <div class="delta"></div>
+            <div class="rama"></div>
+          </div>
+          <a href="en/customer.html" class="btn btn-secondary text-white px-5 my-3 rounded-pill">เพิ่มเติม</a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</div>    </div>
+    <div class="section" id="section4">
+      <div class="content is-desktop">
+    <div class="header text-white">นักลงทุนสัมพันธ์</div>
+    <div class="short_desc">เราเป็นผู้ให้บริการโซลูชั่นด้านเทคโนโลยีสารสนเทศที่มีความเชี่ยวชาญในการนำเสนอสิ่งที่เหนือกว่าด้วยนวัตกรรมที่พัฒนาตลอดเวลา เพื่อบริการที่ทำให้ลูกค้ามีความพึงพอใจและประทับใจมากที่สุด</div>
+    <div class="display_port">
+        <div>
+            <i class="fa fa-2x fa-calendar-o" aria-hidden="true"></i>
+                        <div>16 ก.ค. 2566</div>
+                        <div>วันที่ล่าสุด</div>
+        </div>
+        <div>
+            <i class="fa fa-2x fa-database" aria-hidden="true"></i>
+            <div>NAT</div>
+            <div>ชื่อในตลาดหลักทรัพย์</div>
+        </div>
+        <div>
+            <i class="fa fa-2x fa-line-chart" aria-hidden="true"></i>
+            <div>Coming Soon</div>
+            <div>ราคาล่าสุด</div>
+        </div>
+        <div>
+            <i class="fa fa-2x fa-money" aria-hidden="true"></i>
+            <div>Coming Soon</div>
+            <div>เปลี่ยนแปลง</div>
+        </div>
+    </div>
+    <div class="fixed-xl-bottom custom-bottom report">
+    
+        <ul class="nav-button">
+            <li>
+                <div class="d-flex">
+                    <div class="panel">
+                        <div class="py-2">แบบ 56-1 one report</div>
+                        <a href="en/investor-contact.html" class="btn btn-secondary btn-report text-white rounded-pill">PDF ดาวน์โหลด <i class="fa fa-download" aria-hidden="true"></i></a>
+                        <div class="icon"><i class="fa fa-2x fa-file-pdf-o" aria-hidden="true"></i></div>
+                    </div>
+                </div>
+            </li>
+            <li>
+                <div class="d-flex">
+                    <div class="panel">
+                        <div class="py-2">งบการเงิน</div>
+                        <a href="en/investor-contact.html" class="btn btn-secondary btn-report text-white rounded-pill">PDF ดาวน์โหลด <i class="fa fa-download" aria-hidden="true"></i></a>
+                        <div class="icon"><i class="fa fa-2x fa-book" aria-hidden="true"></i></div>
+                    </div>
+                </div>   
+            </li>
+            <li>
+                <div class="d-flex">
+                    <div class="panel">
+                        <div class="py-2">ข้อมูลสำคัญทางการเงิน</div>
+                        <a href="en/investor-contact.html" class="btn btn-secondary btn-report text-white rounded-pill">PDF ดาวน์โหลด <i class="fa fa-download" aria-hidden="true"></i></a>
+                        <div class="icon"><i class="fa fa-2x fa-file-archive-o" aria-hidden="true"></i></div>
+                    </div>
+                </div>    
+            </li>
+            <li>
+                <div class="d-flex">
+                    <div class="panel">
+                        <div class="py-2">การประชุมผู้ถือหุ้น</div>
+                        <a href="en/investor-contact.html" class="btn btn-secondary btn-report text-white rounded-pill">PDF ดาวน์โหลด <i class="fa fa-download" aria-hidden="true"></i></a>
+                        <div class="icon"><i class="fa fa-2x fa-address-book-o" aria-hidden="true"></i></div>
+                    </div>
+                </div>      
+            </li>
+        </ul>
+    
+        <div> 
+            <a href="en/investor-contact.html" class="btn btn-secondary text-white btn-bottom">ติดต่อนักลงทุนสัมพันธ์</a>
+        </div>
+    </div>
+</div>      <div class="content is-mobile">
+  <div class="w-100 position-relative">
+    <img src="images/backgrounds/home-bg-section4.png" class="img-fluid" style="min-width: 100%; height: 600px;"/>
+    <div class="filter-this filter-primary"></div>
+    <div class="abosolute-content">
+      <div class="w-100">
+        <div class="text-center">
+          <p class="text-white">นักลงทุนสัมพันธ์</p>
+        </div>
+        <div class="display_port is-mobile mb-2 pb-2 custom-border-bottom">
+          <div class="w-50 text-end justify-content-end">
+            <div class="text-center">
+              <i class="fa fa-2x fa-calendar-o" aria-hidden="true"></i>
+                            <div>16 ก.ค. 2566</div>
+                            <div>วันที่ล่าสุด</div>
+            </div>
+          </div>
+          <div class="w-50 text-start">
+            <div class="text-center">
+              <i class="fa fa-2x fa-database" aria-hidden="true"></i>
+              <div>NAT</div>
+              <div>ชื่อในตลาดหลักทรัพย์</div>
+            </div>
+          </div>
+        </div>
+        <div class="display_port is-mobile mt-2">
+          <div class="w-50 text-end justify-content-end">
+            <div class="text-center">
+              <i class="fa fa-2x fa-calendar-o" aria-hidden="true"></i>
+              <div>Coming Soon</div>
+              <div>ราคาล่าสุด</div>
+            </div>
+          </div>
+          <div class="w-50 text-start">
+            <div class="text-center">
+              <i class="fa fa-2x fa-database" aria-hidden="true"></i>
+              <div>Coming Soon</div>
+              <div>เปลี่ยนแปลง</div>
+            </div>
+          </div>
+        </div>
+        <div class="mt-5">
+        <a href="en/investor-contact.html" class="btn btn-secondary text-white btn-bottom rounded-pill">ติดต่อนักลงทุนสัมพันธ์</a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div>
+    <ul class="nav-button">
+      <li>
+          <div class="d-flex">
+              <div class="panel">
+                  <div class="icon"><i class="fa fa-2x fa-file-pdf-o" aria-hidden="true"></i></div>
+                  <div>2566</div>
+                  <div>แบบ 56-1 one report 2566</div>
+                  <a class="btn btn-secondary btn-report text-white rounded-pill">PDF ดาวน์โหลด <i class="fa fa-download" aria-hidden="true"></i></a>
+              </div>
+          </div>
+      </li>
+      <li>
+          <div class="d-flex">
+              <div class="panel">
+                  <div class="icon"><i class="fa fa-2x fa-book" aria-hidden="true"></i></div>
+                  <div>1/2566</div>
+                  <div>งบการเงิน 1/2566</div>
+                  <a class="btn btn-secondary btn-report text-white rounded-pill">PDF ดาวน์โหลด <i class="fa fa-download" aria-hidden="true"></i></a>
+              </div>
+          </div>   
+      </li>
+      <li>
+          <div class="d-flex">
+              <div class="panel">
+                  <div class="icon"><i class="fa fa-2x fa-file-archive-o" aria-hidden="true"></i></div>
+                  <div>2566</div>
+                  <div>ข้อมูลสำคัญทางการเงิน</div>
+                  <a class="btn btn-secondary btn-report text-white rounded-pill">PDF ดาวน์โหลด <i class="fa fa-download" aria-hidden="true"></i></a>
+              </div>
+          </div>    
+      </li>
+      <li>
+          <div class="d-flex">
+              <div class="panel">
+                  <div class="icon"><i class="fa fa-2x fa-address-book-o" aria-hidden="true"></i></div>
+                  <div>1/2566</div>
+                  <div>การประชุมผู้ถือหุ้น</div>
+                  <a class="btn btn-secondary btn-report text-white rounded-pill">PDF ดาวน์โหลด <i class="fa fa-download" aria-hidden="true"></i></a>
+              </div>
+          </div>      
+      </li>
+  </ul>
+  </div>
+
+
+</div>    </div>
+    <div class="section" id="section5">
+      <div class="content">
+    <div class="header">การพัฒนาที่ยั่งยืน</div>
+        <div class="hilight pointer" v-on:click.prevent="gotoURL('it-development/87-บรษท-แนท-แอบโซลท-เทคโนโลยส-จำกด-มหาชน-กบโครงการ-csr-บรจาคเงนสมทบทนมลนธรามาธบด-เพอกจกรรมการกศลทางการแพทย')">
+        <div>
+            <div>
+                <div class="header">
+                    <span>บริษัท แนท แอบโซลูท เทคโนโลยีส์ จำกัด (มหาชน) กับโครงการ CSR บริจาคเงินสมทบทุนมูลนิธิรามาธิบดี เพื่อกิจกรรมการกุศลทางการแพทย์</span>
+                </div>
+                <div class="short_desc">
+                    บริษัท แนท แอบโซลูท เทคโนโลยีส์ จำกัด (มหาชน) กับโครงการ CSR บริจาคเงินสมทบทุนมูลนิธิรามาธิบดี เพื่อกิจกรรมการกุศลทางการแพทย์
+
+มูลนิธิรามาธิบดีมีชื่อเสียงในด้านการทำงานที่ยอดเยี่ยมในการให้ความช่วยเหลือทางการแพทย์แก่ผู้ที่ต้องการ  เรามุ่งมั่นที่จะมีส่วนร่วมในความพยายามในการปรับปรุงการเข้าถึงการรักษาพยาบาลและคุณภาพสำหรับผู้ด้อยโอกาส เรามีความภูมิใจกับโครงการร CSR ที่ส่งต่อความตั้งใจของเราร่วมกับมูลนิธิรามาธิบดี เรามุ่งมั่นที่จะสร้างผลกระทบเชิงบวกในชุมชน โดยเฉพาะอย่างยิ่งในด้านการกุศลทางการแพทย์
+                </div>
+            </div>
+        </div>
+        <div>
+            <img src="storage/images/sustainable-development/87_image_cover.jpg"/>
+        </div>
+    </div>
+    <div class="fixed-xl-bottom custom-bottom development">
+    
+        <ul class="nav-button">
+                                    <li>
+                <div class="panel">
+                    <div class="list_image">
+                        <img src="storage/images/sustainable-development/9_image_cover.jpg"/>
+                    </div>
+                    <div class="short_desc small">LET&#039;S SAVE THE EARTH</div>
+                    <a href="en/it-development/9-lets-save-the-earth.html" class="btn btn-outline-primary btn-more rounded-pill">เพิ่มเติม</a>
+                </div>
+            </li>
+                        <li>
+                <div class="panel">
+                    <div class="list_image">
+                        <img src="storage/images/sustainable-development/13_image_cover.png"/>
+                    </div>
+                    <div class="short_desc small">ส่งเสริมผลิตภัณฑ์จากโครงการ Art Story</div>
+                    <a href="en/it-development/13-%e0%b8%aa%e0%b8%87%e0%b9%80%e0%b8%aa%e0%b8%a3%e0%b8%a1%e0%b8%9c%e0%b8%a5%e0%b8%95%e0%b8%a0%e0%b8%93%e0%b8%91%e0%b8%88%e0%b8%b2%e0%b8%81%e0%b9%82%e0%b8%84%e0%b8%a3%e0%b8%87%e0%b8%81%e0%b8%b2%e0%b8%a3-art-story.html" class="btn btn-outline-primary btn-more rounded-pill">เพิ่มเติม</a>
+                </div>
+            </li>
+                        <li>
+                <div class="panel">
+                    <div class="list_image">
+                        <img src="storage/images/sustainable-development/6_image_cover.jpg"/>
+                    </div>
+                    <div class="short_desc small">กิจกรรม &quot;NT Run for Life”</div>
+                    <a href="en/it-development/6-%e0%b8%81%e0%b8%88%e0%b8%81%e0%b8%a3%e0%b8%a3%e0%b8%a1-nt-run-for-life.html" class="btn btn-outline-primary btn-more rounded-pill">เพิ่มเติม</a>
+                </div>
+            </li>
+                        <li>
+                <div class="panel">
+                    <div class="list_image">
+                        <img src="storage/images/sustainable-development/5_image_cover.jpg"/>
+                    </div>
+                    <div class="short_desc small">โครงการเสริมพลังอนาคตของชาติ</div>
+                    <a href="en/it-development/5-%e0%b9%82%e0%b8%84%e0%b8%a3%e0%b8%87%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b9%80%e0%b8%aa%e0%b8%a3%e0%b8%a1%e0%b8%9e%e0%b8%a5%e0%b8%87%e0%b8%ad%e0%b8%99%e0%b8%b2%e0%b8%84%e0%b8%95%e0%b8%82%e0%b8%ad%e0%b8%87%e0%b8%8a%e0%b8%b2%e0%b8%95.html" class="btn btn-outline-primary btn-more rounded-pill">เพิ่มเติม</a>
+                </div>
+            </li>
+                        <li>
+                <div class="panel">
+                    <div class="list_image">
+                        <img src="storage/images/sustainable-development/7_image_cover.jpg"/>
+                    </div>
+                    <div class="short_desc small">งานกอล์ฟการกุศล FEED X MATICHON TV GOLF...</div>
+                    <a href="en/it-development/7-%e0%b8%87%e0%b8%b2%e0%b8%99%e0%b8%81%e0%b8%ad%e0%b8%a5%e0%b8%9f%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b8%81%e0%b8%a8%e0%b8%a5-feed-x-matichon-tv-golf-charity-2022.html" class="btn btn-outline-primary btn-more rounded-pill">เพิ่มเติม</a>
+                </div>
+            </li>
+                    </ul>
+    </div>
+    </div>    </div>
+    <div class="section" id="section6">
+      <div class="content is-desktop">
+    <div class="header text-white">ข่าวสารความเคลื่อนไหว</div>
+    <div class="list-news">
+        <ul>
+                        <li>
+                <div>
+                                        <div class="time">16 พ.ย. 2566</div>
+                                        <div class="list_image">
+                        <img src="storage/images/news/95_image_cover.jpg"/>
+                    </div>
+                    <div class="title">บริษัท แนท แอบโซลูท เทคโนโลยีส...</div>
+                    <div class="short_desc small">บริษัท แนท แอบโซลูท เทคโนโลยีส์ จำกัด (มหาชน) หรือ NAT ได้รับอนุมัติแบบคำขอเสนอขายหลักทรัพ...</div>
+                    <div class="action">
+                        <a href="en/it-news/95-%e0%b8%9a%e0%b8%a3%e0%b8%a9%e0%b8%97-%e0%b9%81%e0%b8%99%e0%b8%97-%e0%b9%81%e0%b8%ad%e0%b8%9a%e0%b9%82%e0%b8%8b%e0%b8%a5%e0%b8%97-%e0%b9%80%e0%b8%97%e0%b8%84%e0%b9%82%e0%b8%99%e0%b9%82%e0%b8%a5%e0%b8%a2%e0%b8%aa-%e0%b8%88%e0%b8%b3%e0%b8%81%e0%b8%94-%e0%b8%a1%e0%b8%ab%e0%b8%b2%e0%b8%8a%e0%b8%99-%e0%b9%84%e0%b8%94%e0%b8%a3%e0%b8%9a%e0%b8%ad%e0%b8%99%e0%b8%a1%e0%b8%95%e0%b9%81%e0%b8%9a%e0%b8%9a%e0%b8%84%e0%b8%b3%e0%b8%82%e0%b8%ad%e0%b9%80%e0%b8%aa%e0%b8%99%e0%b8%ad%e0%b8%82%e0%b8%b2%e0%b8%a2%e0%b8%ab%e0%b8%a5%e0%b8%81%e0%b8%97%e0%b8%a3%e0%b8%9e%e0%b8%a2%e0%b8%88%e0%b8%b2%e0%b8%81-%e0%b8%aa%e0%b8%b3%e0%b8%99%e0%b8%81%e0%b8%87%e0%b8%b2%e0%b8%99-%e0%b8%81%e0%b8%a5%e0%b8%95.html" class="btn btn-outline-primary btn-more rounded-pill">เพิ่มเติม</a>
+                    </div>
+                </div>
+            </li>
+                        <li>
+                <div>
+                                        <div class="time">10 พ.ย. 2566</div>
+                                        <div class="list_image">
+                        <img src="storage/images/news/93_image_cover.png"/>
+                    </div>
+                    <div class="title">ก.ล.ต. นับหนึ่งไฟลิ่ง NAT จ่อข...</div>
+                    <div class="short_desc small">“แนท แอบโซลูท เทคโนโลยีส์” หรือ NAT เตรียมเสนอขายไอพีโอไม่เกิน 92 ล้านหุ้น เข้าเทรด mai หล...</div>
+                    <div class="action">
+                        <a href="en/it-news/93-%e0%b8%81%e0%b8%a5%e0%b8%95-%e0%b8%99%e0%b8%9a%e0%b8%ab%e0%b8%99%e0%b8%87%e0%b9%84%e0%b8%9f%e0%b8%a5%e0%b8%87-nat-%e0%b8%88%e0%b8%ad%e0%b8%82%e0%b8%b2%e0%b8%a2%e0%b9%84%e0%b8%ad%e0%b8%9e%e0%b9%82%e0%b8%ad-92-%e0%b8%a5%e0%b8%b2%e0%b8%99%e0%b8%ab%e0%b8%99-%e0%b9%80%e0%b8%82%e0%b8%b2%e0%b9%80%e0%b8%97%e0%b8%a3%e0%b8%94-mai.html" class="btn btn-outline-primary btn-more rounded-pill">เพิ่มเติม</a>
+                    </div>
+                </div>
+            </li>
+                        <li>
+                <div>
+                                        <div class="time">8 พ.ย. 2566</div>
+                                        <div class="list_image">
+                        <img src="storage/images/news/91_image_cover.jpg"/>
+                    </div>
+                    <div class="title">Cyber Security &quot;INTO THE AI RE...</div>
+                    <div class="short_desc small">คุณสุธี อภิชนรัตนกร ประธานเจ้าหน้าที่บริหาร (Chief Executive Officer) บริษัท NAT Absolute...</div>
+                    <div class="action">
+                        <a href="en/it-news/91-cyber-security-into-the-ai-realm-cyber-game-plan-revitalized.html" class="btn btn-outline-primary btn-more rounded-pill">เพิ่มเติม</a>
+                    </div>
+                </div>
+            </li>
+                        <li>
+                <div>
+                                        <div class="time">7 พ.ย. 2566</div>
+                                        <div class="list_image">
+                        <img src="storage/images/news/89_image_cover.jpg"/>
+                    </div>
+                    <div class="title">Genesys Sales Enablement</div>
+                    <div class="short_desc small">เป็นกิจกรรมที่มอบประสบการณ์ที่ยอดเยี่ยมและช่วยเสริมศักยภาพทีมขาย ทั้ง เซลส์ และ พรีเซลส์ ก...</div>
+                    <div class="action">
+                        <a href="en/it-news/89-genesys-sales-enablement.html" class="btn btn-outline-primary btn-more rounded-pill">เพิ่มเติม</a>
+                    </div>
+                </div>
+            </li>
+                    </ul>
+    </div>
+</div>      <div class="content is-mobile">
+  <div class="w-100 h-100 position-absolute">
+    <img src="images/backgrounds/home-bg-section6.png" class="img-fluid"
+      style="min-width: 100%; height: 100%;" />
+    <div class="filter-this filter-primary"></div>
+  </div>
+  <div class="relative-content pb-3">
+    <div>
+      <h2 class="my-3">ข่าวสารความเคลื่อนไหว</h2>
+      <section id="image-carousel" class="splide pb-3" aria-label="Beautiful Images">
+        <div class="splide__track">
+          <ul class="splide__list">
+                        <li class="splide__slide">
+              <div>
+                <div>
+                                    <div class="time">16 พ.ย. 2566</div>
+                                    <div class="list_image">
+                    <img src="storage/images/news/95_image_cover.jpg" />
+                  </div>
+                  <div class="title">บริษัท แนท แอบโซลูท เทคโนโลยีส...</div>
+                  <div class="short_desc">บริษัท แนท แอบโซลูท เทคโนโลยีส์ จำกัด (มหาชน) หรือ NAT ได้รับอนุมัติแบบคำขอเสนอขายหลักทรัพย์จาก สำนักงาน ก.ล.ต. เตรียมความพร้อมเสนอขายหุ้น IPO และเข้าจดทะเบียนในตลาดหลักทรัพย์ เอ็ม...</div>
+                  <div class="action text-end">
+                    <a href="en/it-news/95-%e0%b8%9a%e0%b8%a3%e0%b8%a9%e0%b8%97-%e0%b9%81%e0%b8%99%e0%b8%97-%e0%b9%81%e0%b8%ad%e0%b8%9a%e0%b9%82%e0%b8%8b%e0%b8%a5%e0%b8%97-%e0%b9%80%e0%b8%97%e0%b8%84%e0%b9%82%e0%b8%99%e0%b9%82%e0%b8%a5%e0%b8%a2%e0%b8%aa-%e0%b8%88%e0%b8%b3%e0%b8%81%e0%b8%94-%e0%b8%a1%e0%b8%ab%e0%b8%b2%e0%b8%8a%e0%b8%99-%e0%b9%84%e0%b8%94%e0%b8%a3%e0%b8%9a%e0%b8%ad%e0%b8%99%e0%b8%a1%e0%b8%95%e0%b9%81%e0%b8%9a%e0%b8%9a%e0%b8%84%e0%b8%b3%e0%b8%82%e0%b8%ad%e0%b9%80%e0%b8%aa%e0%b8%99%e0%b8%ad%e0%b8%82%e0%b8%b2%e0%b8%a2%e0%b8%ab%e0%b8%a5%e0%b8%81%e0%b8%97%e0%b8%a3%e0%b8%9e%e0%b8%a2%e0%b8%88%e0%b8%b2%e0%b8%81-%e0%b8%aa%e0%b8%b3%e0%b8%99%e0%b8%81%e0%b8%87%e0%b8%b2%e0%b8%99-%e0%b8%81%e0%b8%a5%e0%b8%95.html"
+                      class="btn btn-outline-primary btn-more rounded-pill">เพิ่มเติม</a>
+                  </div>
+                </div>
+              </div>
+            </li>
+                        <li class="splide__slide">
+              <div>
+                <div>
+                                    <div class="time">10 พ.ย. 2566</div>
+                                    <div class="list_image">
+                    <img src="storage/images/news/93_image_cover.png" />
+                  </div>
+                  <div class="title">ก.ล.ต. นับหนึ่งไฟลิ่ง NAT จ่อข...</div>
+                  <div class="short_desc">“แนท แอบโซลูท เทคโนโลยีส์” หรือ NAT เตรียมเสนอขายไอพีโอไม่เกิน 92 ล้านหุ้น เข้าเทรด mai หลัง ก.ล.ต. นับหนึ่งไฟลิ่ง หนุนศักยภาพการเติบโตธุรกิจ เพิ่มโอกาสการเข้ารับงานโครงการภาครัฐ-เ...</div>
+                  <div class="action text-end">
+                    <a href="en/it-news/93-%e0%b8%81%e0%b8%a5%e0%b8%95-%e0%b8%99%e0%b8%9a%e0%b8%ab%e0%b8%99%e0%b8%87%e0%b9%84%e0%b8%9f%e0%b8%a5%e0%b8%87-nat-%e0%b8%88%e0%b8%ad%e0%b8%82%e0%b8%b2%e0%b8%a2%e0%b9%84%e0%b8%ad%e0%b8%9e%e0%b9%82%e0%b8%ad-92-%e0%b8%a5%e0%b8%b2%e0%b8%99%e0%b8%ab%e0%b8%99-%e0%b9%80%e0%b8%82%e0%b8%b2%e0%b9%80%e0%b8%97%e0%b8%a3%e0%b8%94-mai.html"
+                      class="btn btn-outline-primary btn-more rounded-pill">เพิ่มเติม</a>
+                  </div>
+                </div>
+              </div>
+            </li>
+                        <li class="splide__slide">
+              <div>
+                <div>
+                                    <div class="time">8 พ.ย. 2566</div>
+                                    <div class="list_image">
+                    <img src="storage/images/news/91_image_cover.jpg" />
+                  </div>
+                  <div class="title">Cyber Security &quot;INTO THE AI RE...</div>
+                  <div class="short_desc">คุณสุธี อภิชนรัตนกร ประธานเจ้าหน้าที่บริหาร (Chief Executive Officer) บริษัท NAT Absolute Technologies PCL ขึ้นรับรางวัล Top Rising Star 2023 ในงานสัมมนา Cyber Security &quot;INTO THE A...</div>
+                  <div class="action text-end">
+                    <a href="en/it-news/91-cyber-security-into-the-ai-realm-cyber-game-plan-revitalized.html"
+                      class="btn btn-outline-primary btn-more rounded-pill">เพิ่มเติม</a>
+                  </div>
+                </div>
+              </div>
+            </li>
+                        <li class="splide__slide">
+              <div>
+                <div>
+                                    <div class="time">7 พ.ย. 2566</div>
+                                    <div class="list_image">
+                    <img src="storage/images/news/89_image_cover.jpg" />
+                  </div>
+                  <div class="title">Genesys Sales Enablement</div>
+                  <div class="short_desc">เป็นกิจกรรมที่มอบประสบการณ์ที่ยอดเยี่ยมและช่วยเสริมศักยภาพทีมขาย ทั้ง เซลส์ และ พรีเซลส์ ก่อให้เกิดขีดความสามารถที่มากขึ้นในการให้คำแนะนำเกี่ยวกับ Cloud Contact Center Solution ให้...</div>
+                  <div class="action text-end">
+                    <a href="en/it-news/89-genesys-sales-enablement.html"
+                      class="btn btn-outline-primary btn-more rounded-pill">เพิ่มเติม</a>
+                  </div>
+                </div>
+              </div>
+            </li>
+                      </ul>
+        </div>
+      </section>
+    </div>
+  </div>
+</div>    </div>
+    <div class="section" id="section7">
+      <div class="content is-desktop">
+    <div class="header">ร่วมงานกับเรา</div>
+    <div class="list-jobs">
+        <div class="left-panel">
+            <ul class="scrollable">
+                                <li  class="urgent btn-jobs"   data-id="80">
+                    <div class="position">เจ้าหน้าที่แผนกขาย (Account Manager)</div>
+                    <div class="amount">1 ตำแหน่ง</div>
+                </li>
+                                <li  class="urgent btn-jobs"   data-id="75">
+                    <div class="position">เจ้าหน้าที่แผนกการตลาด</div>
+                    <div class="amount">1 ตำแหน่ง</div>
+                </li>
+                                <li  class="urgent btn-jobs"   data-id="37">
+                    <div class="position">เลขานุการประธานเจ้าหน้าที่บริหาร (CEO)</div>
+                    <div class="amount">1 ตำแหน่ง</div>
+                </li>
+                                <li  class="urgent btn-jobs"   data-id="3">
+                    <div class="position">System Engineer (VMWare Cloud Foundataion - VCF)</div>
+                    <div class="amount">1 ตำแหน่ง</div>
+                </li>
+                            </ul>
+            <div class="d-flex justify-content-center">
+                <div class="qrcode">
+                    <img src="images/qr-hr-line.jpg" width="80" />
+                </div>
+                <div class="contact px-3 text-start">
+                    <div>ติดต่อฝ่ายบุคคล</div>
+                    <div>Line ID: nat_hr</div>
+                    <div>Email: <a href="mailto:contact@natat.co.th">contact@natat.co.th</a></div>
+                </div>
+            </div>
+        </div>
+        <div class="right-panel">
+            <div>
+                <div>
+                    <div class="detail">
+                        <div v-bind:class="{'scrollable': activeScrollable}">
+                                                            <div class="jobs-id-80" >
+                                    <div class="h3 pb-2 border-bottom">เจ้าหน้าที่แผนกขาย (Account Manager)</div>
+                                    <p class="MsoNoSpacing"><span lang="TH" style="font-size: 14pt; font-family: Kanit; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">หน้าที่รับผิดชอบ</span><span style="font-family: Kanit; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;"><o:p></o:p></span></p><p class="MsoNoSpacing"><span style="mso-bidi-font-size:11.0pt;font-family:Kanit;
+mso-fareast-font-family:&quot;Times New Roman&quot;;color:#404040;mso-font-kerning:0pt;
+mso-ligatures:none">• <span lang="TH">เจ้าหน้าที่แผนกขายมีหน้าที่ดูแลลูกค้า เสนอ
+มองหาโซลูชั่นใหม่ ๆ นำเสนอ เช่น </span>IT Solution <span lang="TH">ด้าน </span>Servers,
+Storages, Network <span lang="TH">เป็นต้น</span><o:p></o:p></span></p><p class="MsoNoSpacing"><span style="mso-bidi-font-size:11.0pt;font-family:Kanit;
+mso-fareast-font-family:&quot;Times New Roman&quot;;color:#404040;mso-font-kerning:0pt;
+mso-ligatures:none">• </span><span lang="TH" style="mso-bidi-font-size:11.0pt;
+font-family:Kanit;color:#202124">สามารถวิเคราะห์ต้นทุน-ผลประโยชน์และความต้องการของลูกค้าเพื่อตอบสนองความต้องการของพวกเขา</span><span style="mso-bidi-font-size:11.0pt;font-family:Kanit;color:#202124"><o:p></o:p></span></p><p class="MsoNoSpacing"><span style="mso-bidi-font-size:11.0pt;font-family:Kanit;
+mso-fareast-font-family:&quot;Times New Roman&quot;;color:#404040;mso-font-kerning:0pt;
+mso-ligatures:none">• </span><span lang="TH" style="mso-bidi-font-size:11.0pt;
+font-family:Kanit;color:#202124">มีทักษะในการคำนวณต้นทุนที่แม่นยำ รวดเร็ว
+และเสนอราคาให้กับลูกค้าอย่างเหมาะสมและอยู่ภายใต้นโยบายของบริษัท</span><span style="mso-bidi-font-size:11.0pt;font-family:Kanit;mso-fareast-font-family:
+&quot;Times New Roman&quot;;color:#202124;mso-font-kerning:0pt;mso-ligatures:none"><o:p></o:p></span></p><p class="MsoNoSpacing"><span style="font-family:Kanit">• </span><span class="y2iqfc"><span lang="TH" style="mso-bidi-font-size:11.0pt;font-family:Kanit">ทำงานร่วมกับลูกค้าภาครัฐ
+เข้าใจ </span></span><span class="y2iqfc"><span style="mso-bidi-font-size:11.0pt;
+font-family:Kanit">TO</span></span><span style="mso-bidi-font-size:11.0pt;
+font-family:Kanit">R <span class="y2iqfc"><span lang="TH">และจัดการการเอกสาร </span></span></span><span class="y2iqfc"><span style="font-family:Kanit">bidding, e-bidding</span></span><span style="mso-bidi-font-size:11.0pt;font-family:Kanit"><o:p></o:p></span></p><p class="MsoNoSpacing"><span style="font-family:Kanit">• </span><span lang="TH" style="mso-bidi-font-size:11.0pt;font-family:Kanit">เป็นส่วนหลักในการสร้าง
+พัฒนา และรักษาความสัมพันธ์กับลูกค้า ให้ได้รับความไว้วางใจอยู่เสมอ</span><span class="y2iqfc"><span style="mso-bidi-font-size:11.0pt;font-family:Kanit"><o:p></o:p></span></span></p><p class="MsoNoSpacing"><span style="mso-bidi-font-size:11.0pt;font-family:Kanit">•
+<span class="y2iqfc"><span lang="TH">เร่งรัดการแก้ไขปัญหาและข้อร้องเรียนของลูกค้าเพื่อให้เกิดความพึงพอใจสูงสุด</span><o:p></o:p></span></span></p><p class="MsoNoSpacing"><span style="mso-bidi-font-size:11.0pt;font-family:Kanit">•
+<span class="y2iqfc"><span lang="TH">ประสานงานการขายกับสมาชิกในทีม บริหารโครงการ และแผนกอื่นๆ</span></span><span lang="TH"> เพื่อให้การดำเนินงานโครงการเป็นไปอย่างราบรื่น</span><o:p></o:p></span></p><p class="MsoNoSpacing"><span style="font-family:Kanit">• </span><span class="y2iqfc"><span lang="TH" style="mso-bidi-font-size:11.0pt;font-family:Kanit">ควบคุมและรายงานงบประมาณและเปรียบเทียบกับยอดขายตามจริง
+และวิเคราะห์สถานการณ์เพื่อปรับปรุงได้</span></span><span class="y2iqfc"><span style="mso-bidi-font-size:11.0pt;font-family:Kanit"><o:p></o:p></span></span></p><p class="MsoNoSpacing"><span class="y2iqfc"><span lang="TH" style="mso-bidi-font-size:
+11.0pt;font-family:Kanit">• กำหนดและติดตามเป้าหมายการขายตลอดจน</span></span><span class="y2iqfc"><span lang="TH" style="font-family:Kanit"> </span></span><span class="y2iqfc"><span lang="TH" style="mso-bidi-font-size:11.0pt;font-family:Kanit">ดูแลทีมงานและยอดขายในทีม<o:p></o:p></span></span></p><p class="MsoNoSpacing"><span class="y2iqfc"><span lang="TH" style="mso-bidi-font-size:
+11.0pt;font-family:Kanit">• ระบุลูกค้าใหม่ที่มีศักยภาพและกำหนดกลยุทธ์แนวทางการขาย</span></span><span style="font-family:Kanit"><o:p></o:p></span></p><p class="MsoNoSpacing"><span style="mso-bidi-font-size:11.0pt;font-family:Kanit;
+mso-fareast-font-family:&quot;Times New Roman&quot;;color:#404040;mso-font-kerning:0pt;
+mso-ligatures:none">&nbsp;</span></p><p class="MsoNoSpacing"><span class="y2iqfc"><span lang="TH" style="mso-bidi-font-size:
+11.0pt;font-family:Kanit">คุณสมบัติ<o:p></o:p></span></span></p><p class="MsoNoSpacing"><span class="y2iqfc"><span lang="TH" style="mso-bidi-font-size:
+11.0pt;font-family:Kanit">• มีประสบการณ์อย่างน้อย 3 ปีในตำแหน่งหรืองานที่เกี่ยวกับการขายธุรกิจ
+</span></span><span class="y2iqfc"><span style="mso-bidi-font-size:11.0pt;
+font-family:Kanit">IT Solutions<span lang="TH"><o:p></o:p></span></span></span></p><p class="MsoNoSpacing"><span class="y2iqfc"><span lang="TH" style="mso-bidi-font-size:
+11.0pt;font-family:Kanit">• มีประสบการณ์เป็นหัวหน้าทีม และดูแลทีมงานแผนกขาย <o:p></o:p></span></span></p><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</p><p class="MsoNoSpacing"><span class="y2iqfc"><span lang="TH" style="mso-bidi-font-size:
+11.0pt;font-family:Kanit">• มีความเข้าใจกระบวนการและเอกสารที่เกี่ยวข้องสำหรับการประมูลงานจะได้รับการพิจารณาเป็นพิเศษ<o:p></o:p></span></span></p>
+                                </div>
+                                                            <div class="jobs-id-75"  style="display:none" >
+                                    <div class="h3 pb-2 border-bottom">เจ้าหน้าที่แผนกการตลาด</div>
+                                    <p><font face="Kanit"><span style="font-size: 18px;">หน้าที่รับผิดชอบ</span></font></p><p><span style="font-family: Kanit; letter-spacing: 0.14px;">•</span><span style="font-family: Kanit; letter-spacing: 0.14px; font-size: 18.6667px;">จัดการดูแลงาน ประสานงาน อีเว้นท์ สัมนา เทรนนิ่ง ที่เกี่ยวข้องการการส่งเสริมการขาย ทั้งที่บริษัทจัดขึ้น หรือการจัดงานร่วมกับ Partner</span><font face="Kanit"><span style="font-size: 18px;"><br></span></font></p><p><span style="letter-spacing: 0.14px; font-family: Kanit;">•<span style="font-size: 18.6667px;">บริหารจัดการเงื่อนไขต่างๆตามที่ Partner ระบุไว้เพื่อรักษาสถานะการเป็น Partnership</span></span></p><p><span style="font-family: Kanit; letter-spacing: 0.14px;">•</span><span style="font-family: Kanit; letter-spacing: 0.14px; font-size: 18.6667px;">ดูแล Content บนสื่อ Social ต่างๆของบริษัท เช่น facebook, website โดยให้ข้อมูลข่าวสารที่ถูกต้อง ครบถ้วยและทันเหตุการณ์</span></p><p><span style="letter-spacing: 0.14px; font-family: Kanit;">•<span style="font-size: 18.6667px;">จัดการมีเดียที่สำคัญอื่นๆให้กับบริษัท เช่น backdrop, roll up, brochure, e-brochure, vdo เป็นต้น</span></span></p><p><span style="font-family: Kanit; letter-spacing: 0.14px;">•<span style="font-size: 18.6667px;">ทำงานร่วมกับทีมขาย เพื่อจัดการ due registration และ กิจกรรมส่งเสริมการขายอื่นๆ</span></span></p><p><span style="font-family: Kanit; letter-spacing: 0.14px;"><span style="font-size: 18.6667px;">คุณสมบัติ<br></span></span><span style="letter-spacing: 0.14px; font-family: Kanit;"><span style="font-size: 18.6667px;"><br></span></span><span style="font-family: Kanit; letter-spacing: 0.14px;">•</span><span style="font-family: Kanit; letter-spacing: 0.14px; font-size: 18.6667px;">หากมีความรู้ด้าน Graphic Design, Illustrator, CANVA, Google Anaytic, Marketing Platform จะพิจารณาเป็นพิเศษ</span><br></p>
+                                </div>
+                                                            <div class="jobs-id-37"  style="display:none" >
+                                    <div class="h3 pb-2 border-bottom">เลขานุการประธานเจ้าหน้าที่บริหาร (CEO)</div>
+                                    <p class="MsoNormal"><span lang="TH" style="font-size:14.0pt;line-height:107%;
+font-family:Kanit">หน้าที่รับผิดชอบ </span><span style="font-size:14.0pt;
+line-height:107%;font-family:Kanit"><o:p></o:p></span></p><p class="MsoNormal"><span lang="TH" style="font-size:14.0pt;line-height:107%;
+font-family:Kanit">• ให้การสนับสนุน ดูแล จัดการ บริหารระดับสูงและช่วย </span><span style="font-size:14.0pt;line-height:107%;font-family:Kanit">support <span lang="TH">ให้กับประธานเจ้าหน้าที่บริหาร (</span>CEO) <span lang="TH">และทีมผู้บริหาร
+</span><o:p></o:p></span></p><p class="MsoNormal"><span lang="TH" style="font-size:14.0pt;line-height:107%;
+font-family:Kanit">• ดำเนินงานทางด้านธุรการรวมถึงการร่างจดหมาย</span><span style="font-size:14.0pt;line-height:107%;font-family:Kanit">, <span lang="TH">บันทึกข้อความ</span>,
+<span lang="TH">ใบแจ้งหนี้</span>, <span lang="TH">เอกสารเบิกจ่าย</span>, <span lang="TH">รายงาน และเอกสารอื่นๆ </span><o:p></o:p></span></p><p class="MsoNormal"><span lang="TH" style="font-size:14.0pt;line-height:107%;
+font-family:Kanit">• จัดการการเดินทางและที่พักให้กับผู้ทีมบริหาร </span><span style="font-size:14.0pt;line-height:107%;font-family:Kanit"><o:p></o:p></span></p><p class="MsoNormal"><span lang="TH" style="font-size:14.0pt;line-height:107%;
+font-family:Kanit">• ผู้ช่วยในการทำงาน เช่น เข้าประชุมแทน ประสานงาน
+งานที่ผู้บริหารดูแล รับรองแขก เป็นต้น</span><span style="font-size:14.0pt;
+line-height:107%;font-family:Kanit"><o:p></o:p></span></p><p class="MsoNormal"><span lang="TH" style="font-size:14.0pt;line-height:107%;
+font-family:Kanit">• จัดการตาราง ทั้งภายในและภายนอก</span><span style="font-size:14.0pt;line-height:107%;font-family:Kanit">, <span lang="TH">และการมีนัดหรือกิจกรรมส่วนตัว
+เพื่อให้การดำเนินงานของผู้บริหารเป็นไปอย่างราบรื่น </span><o:p></o:p></span></p><p class="MsoNormal"><span lang="TH" style="font-size:14.0pt;line-height:107%;
+font-family:Kanit">• เข้าร่วมประชุมเพื่อทำบันทึกข้อความและสร้างบันทึกข้อความ</span><span style="font-size:14.0pt;line-height:107%;font-family:Kanit">, <span lang="TH">รายงานและวาระการประชุมตามต้องการ</span><o:p></o:p></span></p><p class="MsoNormal"><span style="font-size:14.0pt;line-height:107%;font-family:
+Kanit">&nbsp;</span></p><p class="MsoNormal"><span lang="TH" style="font-size:14.0pt;line-height:107%;
+font-family:Kanit">คุณสมบัติ</span><span style="font-size:14.0pt;line-height:
+107%;font-family:Kanit"><o:p></o:p></span></p><p class="MsoNormal"><span lang="TH" style="font-size:14.0pt;line-height:107%;
+font-family:Kanit">• มีทักษะในการจัดการเวลาและการจัดระเบียบที่ดีมาก </span><span style="font-size:14.0pt;line-height:107%;font-family:Kanit"><o:p></o:p></span></p><p class="MsoNormal"><span lang="TH" style="font-size:14.0pt;line-height:107%;
+font-family:Kanit">• สามารถสื่อสารภาษาอังกฤษได้(ถ้ามี)</span><span style="font-size:14.0pt;line-height:107%;font-family:Kanit"><o:p></o:p></span></p><p class="MsoNormal"><span lang="TH" style="font-size:14.0pt;line-height:107%;
+font-family:Kanit">• ความสามารถในการกำหนดลำดับความสำคัญและการทำงานพร้อมกัน </span><span style="font-size:14.0pt;line-height:107%;font-family:Kanit"><o:p></o:p></span></p><p class="MsoNormal"><span lang="TH" style="font-size:14.0pt;line-height:107%;
+font-family:Kanit">• สามารถสื่อสารได้อย่างมีประสิทธิภาพและมีมืออาชีพ</span><span style="font-size:14.0pt;line-height:107%;font-family:Kanit">, <span lang="TH">รวมถึงการสื่อสารกับพนักงานทุกระดับ</span><o:p></o:p></span></p><p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</p><p class="MsoNormal"><span lang="TH" style="font-size:14.0pt;line-height:107%;
+font-family:Kanit">• มี </span><span style="font-size:14.0pt;line-height:107%;
+font-family:Kanit">service mind <span lang="TH">ชอบงานบริการ</span><o:p></o:p></span></p>
+                                </div>
+                                                            <div class="jobs-id-3"  style="display:none" >
+                                    <div class="h3 pb-2 border-bottom">System Engineer (VMWare Cloud Foundataion - VCF)</div>
+                                    <p class="MsoNormal" style="line-height: normal; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;"><span style="font-size:14.0pt;font-family:Kanit;mso-fareast-font-family:
+&quot;Times New Roman&quot;;color:#404040;mso-font-kerning:0pt;mso-ligatures:none">Responsibility:<o:p></o:p></span></p><p style="margin-left: 51pt; text-align: justify; text-indent: -18pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;"><!--[if !supportLists]--><span style="font-size:10.0pt;mso-bidi-font-size:
+14.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
+Symbol">·<span style="font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: &quot;Times New Roman&quot;;">&nbsp;&nbsp;
+</span></span><!--[endif]--><span lang="TH" style="font-size: 14pt; font-family: Kanit;">ทำงานอย่างใกล้ชิดกับทีมบริหารโครงการ
+และบริษัทคู่ค้า หรือทีมงานภายนอก เพื่อดูแลงานด้านการติดตั้ง ให้แก่ลูกค้า โดยมุ่งเน้นการติดตั้งด้าน</span><span style="font-size: 14pt; font-family: Kanit;">
+VMWare Cloud Foundation (CVF) <span lang="TH">และโซลูชันด้านไอที
+ตามที่ฝ่ายขายได้ตกลงกับทางลูกค้าไว้</span></span><span style="font-size:14.0pt;
+font-family:Kanit"><o:p></o:p></span></p><p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+margin-left:51.0pt;text-indent:-18.0pt;line-height:normal;mso-list:l0 level1 lfo1;
+tab-stops:list 51.0pt;vertical-align:baseline"><!--[if !supportLists]--><span style="font-size: 10pt; font-family: Symbol; border: 1pt none windowtext; padding: 0cm;">·<span style="font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: &quot;Times New Roman&quot;;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><!--[endif]--><span lang="TH" style="font-size: 14pt; font-family: Kanit; border: 1pt none windowtext; padding: 0cm;">มีหน้าที่ทำตามข้อตกลงที่ลูกค้าให้ความต้องการไว้อย่างครบถ้วน
+โดยดูแลในการติดตั้ง ด้านเทคนิค เพื่อให้งานสำเร็จตามโซลูชั่นที่ตั้งไว้</span><span style="font-size: 14pt; font-family: Kanit; border: 1pt none windowtext; padding: 0cm;"><o:p></o:p></span></p><p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+margin-left:51.0pt;text-indent:-18.0pt;line-height:normal;mso-list:l0 level1 lfo1;
+tab-stops:list 51.0pt;vertical-align:baseline"><!--[if !supportLists]--><span style="font-size: 10pt; font-family: Symbol; border: 1pt none windowtext; padding: 0cm;">·<span style="font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: &quot;Times New Roman&quot;;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><!--[endif]--><span lang="TH" style="font-size: 14pt; font-family: Kanit; border: 1pt none windowtext; padding: 0cm;">มีการวางแผนงาน และการติดตั้งที่ถูกต้อง
+เพื่อให้ได้ตามที่ลูกค้าต้องการ</span><span style="font-size: 14pt; font-family: Kanit; border: 1pt none windowtext; padding: 0cm;"><o:p></o:p></span></p><p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+margin-left:51.0pt;text-indent:-18.0pt;line-height:normal;mso-list:l0 level1 lfo1;
+tab-stops:list 51.0pt;vertical-align:baseline"><!--[if !supportLists]--><span style="font-size: 10pt; font-family: Symbol; border: 1pt none windowtext; padding: 0cm;">·<span style="font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: &quot;Times New Roman&quot;;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><!--[endif]--><span lang="TH" style="font-size: 14pt; font-family: Kanit; border: 1pt none windowtext; padding: 0cm;">มีหน้าที่ช่วยประสานงานกับทีมงานที่เกี่ยวข้อง ทั้งภายในและภายนอก เพื่อให้การติดตั้งงานสำเร็จและส่งมอบให้ลูกค้าได้ตามกำหนด</span><span style="font-size: 14pt; font-family: Kanit; border: 1pt none windowtext; padding: 0cm;"><o:p></o:p></span></p><p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+margin-left:51.0pt;text-indent:-18.0pt;line-height:normal;mso-list:l0 level1 lfo1;
+tab-stops:list 51.0pt;vertical-align:baseline"><!--[if !supportLists]--><span style="font-size: 10pt; font-family: Symbol; border: 1pt none windowtext; padding: 0cm;">·<span style="font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: &quot;Times New Roman&quot;;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><!--[endif]--><span lang="TH" style="font-size: 14pt; font-family: Kanit; border: 1pt none windowtext; padding: 0cm;">สามารถ </span><span style="font-size: 14pt; font-family: Kanit; border: 1pt none windowtext; padding: 0cm;">install,
+configure, maintain <span lang="TH">และ
+แก้ปัญหาด้านเทคนิคต่างๆของระบบที่เรานำเสนอให้แก่ลูกค้า</span><o:p></o:p></span></p><p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+margin-left:51.0pt;text-indent:-18.0pt;line-height:normal;mso-list:l0 level1 lfo1;
+tab-stops:list 51.0pt;vertical-align:baseline"><!--[if !supportLists]--><span style="font-size: 10pt; font-family: Symbol; border: 1pt none windowtext; padding: 0cm;">·<span style="font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: &quot;Times New Roman&quot;;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><!--[endif]--><span lang="TH" style="font-size: 14pt; font-family: Kanit; border: 1pt none windowtext; padding: 0cm;">ประเมินงานและสามารถให้คำแนะนำหรือข้อเสนอแนะเมื่อเกิดปัญหาในโครงการนั้นๆ</span><span style="font-size: 14pt; font-family: Kanit; border: 1pt none windowtext; padding: 0cm;"><o:p></o:p></span></p><p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+margin-left:51.0pt;text-indent:-18.0pt;line-height:normal;mso-list:l0 level1 lfo1;
+tab-stops:list 51.0pt;vertical-align:baseline"><!--[if !supportLists]--><span style="font-size: 10pt; font-family: Symbol; border: 1pt none windowtext; padding: 0cm;">·<span style="font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: &quot;Times New Roman&quot;;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><!--[endif]--><span lang="TH" style="font-size: 14pt; font-family: Kanit; border: 1pt none windowtext; padding: 0cm;">ให้คำปรึกษาด้านเทคนิคกับลูกค้าได้</span><span style="font-size: 14pt; font-family: Kanit; border: 1pt none windowtext; padding: 0cm;"><o:p></o:p></span></p><p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+margin-left:51.0pt;text-indent:-18.0pt;line-height:normal;mso-list:l0 level1 lfo1;
+tab-stops:list 51.0pt;vertical-align:baseline"><!--[if !supportLists]--><span style="font-size: 10pt; font-family: Symbol; border: 1pt none windowtext; padding: 0cm;">·<span style="font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: &quot;Times New Roman&quot;;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><!--[endif]--><span lang="TH" style="font-size: 14pt; font-family: Kanit; border: 1pt none windowtext; padding: 0cm;">ให้ข้อมูล รวบรวมข้อมูล ด้านเทคนิคในแต่ละโซลูชั่น
+เพื่อนำไประบุในเอกสารสำคัญได้</span><span style="font-size: 14pt; font-family: Kanit; border: 1pt none windowtext; padding: 0cm;"><o:p></o:p></span></p><p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</p><p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+margin-left:51.0pt;text-indent:-18.0pt;line-height:normal;mso-list:l0 level1 lfo1;
+tab-stops:list 51.0pt;vertical-align:baseline"><!--[if !supportLists]--><span style="font-size: 10pt; font-family: Symbol; border: 1pt none windowtext; padding: 0cm;">·<span style="font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: &quot;Times New Roman&quot;;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><!--[endif]--><span lang="TH" style="font-size: 14pt; font-family: Kanit; border: 1pt none windowtext; padding: 0cm;">สามารถวาดรูปโครงสร้างของระบบ เอกสารการปฏิบัติงาน
+และสามารถประเมินผลกระทบที่จะเกิดขึ้นในระบบที่วางไว้ได้</span><span style="font-size: 14pt; font-family: Kanit; border: 1pt none windowtext; padding: 0cm;"><o:p></o:p></span></p><p><br>Requirements<br></p><div class="WordSection1">
+
+<ul type="disc">
+ <li class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+     line-height:normal;mso-list:l0 level1 lfo1"><span lang="TH" style="font-size:16.0pt;font-family:Kanit">สัญชาติไทย </span><span style="font-size:16.0pt;font-family:Kanit"><o:p></o:p></span></li>
+ <li class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+     line-height:normal;mso-list:l0 level1 lfo1"><span lang="TH" style="font-size:16.0pt;font-family:Kanit">วุฒิปริญญาตรี สาขาวิศวกรรมคอมพิวเตอร์
+     วิศวกรรมโทรคมนาคม เทคโนโลยีสารสนเทศ </span><span style="font-size:16.0pt;
+     font-family:Kanit">MIS <span lang="TH">หรือสาขาที่เกี่ยวข้อง</span><o:p></o:p></span></li>
+ <li class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+     line-height:normal;mso-list:l0 level1 lfo1"><span lang="TH" style="font-size:16.0pt;font-family:Kanit">ประสบการณ์ 3 ปีขึ้นไปในงาน
+     ติดตั้งระบบด้านไอที </span><span style="font-size:16.0pt;font-family:Kanit">System
+     Engineer<o:p></o:p></span></li>
+ <li class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+     line-height:normal;mso-list:l0 level1 lfo1"><span lang="TH" style="font-size:16.0pt;font-family:Kanit">มีประสบการณ์ในโครงสร้างพื้นฐานของระบบไอที
+     </span><span style="font-size:16.0pt;font-family:Kanit">VMWare Cloud
+     Foundation <span lang="TH">จะพิจารณาเป็นพิเศษ</span><o:p></o:p></span></li>
+ <li class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+     line-height:normal;mso-list:l0 level1 lfo1"><span lang="TH" style="font-size:16.0pt;font-family:Kanit">หากมีประสบการณ์ในผลิตภัณฑ์ </span><span style="font-size:16.0pt;font-family:Kanit">Dell, Dell EMC, VMware <span lang="TH">และผลิตภัณฑ์รักษาความปลอดภัยเครือข่ายจะพิจารณาเป็นพิเศษ</span><o:p></o:p></span></li>
+ <li class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+     line-height:normal;mso-list:l0 level1 lfo1"><span lang="TH" style="font-size:16.0pt;font-family:Kanit">ความคุ้นเคยการทำงานระบบของราชการ
+     เช่น เอกสาร และข้อมูลที่ต้องจัดเตรียมสำหรับแต่ละโครงการ</span><span style="font-size:16.0pt;font-family:Kanit"><o:p></o:p></span></li>
+ <li class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+     line-height:normal;mso-list:l0 level1 lfo1"><span lang="TH" style="font-size:16.0pt;font-family:Kanit">บุคลิกภาพดีพร้อมการนำเสนอ
+     การสื่อสาร การเจรจาต่อรอง ทักษะในองค์กร และมนุษยสัมพันธ์ที่ดี</span><span style="font-size:16.0pt;font-family:Kanit"><o:p></o:p></span></li>
+ <li class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+     line-height:normal;mso-list:l0 level1 lfo1"><span lang="TH" style="font-size:16.0pt;font-family:Kanit">สามารถทำงานภายใต้ความกดดันได้ ทำงานเป็นทีมหรือเดี่ยวได้</span><span style="font-size:16.0pt;font-family:Kanit"><o:p></o:p></span></li>
+ <li class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+     line-height:normal;mso-list:l0 level1 lfo1"><span lang="TH" style="font-size:16.0pt;font-family:Kanit">สามารถทำงานล่วงเวลาได้ </span><span style="font-size:16.0pt;font-family:Kanit"><o:p></o:p></span></li>
+ <li class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+     line-height:normal;mso-list:l0 level1 lfo1"><span lang="TH" style="font-size:16.0pt;font-family:Kanit">แรงจูงใจในตนเองและเต็มใจที่จะเรียนรู้เทคโนโลยีใหม่<o:p></o:p></span></li>
+</ul>
+
+</div><p>
+
+<span lang="TH" style="font-size:16.0pt;font-family:Kanit;mso-fareast-font-family:
+Calibri;mso-fareast-theme-font:minor-latin;mso-ansi-language:EN-US;mso-fareast-language:
+EN-US;mso-bidi-language:TH"><br clear="all" style="page-break-before:always;
+mso-break-type:section-break"></span></p>
+                                </div>
+                                                    </div>
+                    </div>
+                    <div class="bottom_action">
+                        <div class="d-flex justify-content-between px-3">
+                            <div>
+                                <div>วันเปิดรับสมัคร</div>
+                                                                                                        <div class="jobs-id-80" >13 ต.ค. 2566</div>
+                                                                                                                                            <div class="jobs-id-75"  style="display:none" >13 ต.ค. 2566</div>
+                                                                                                                                            <div class="jobs-id-37"  style="display:none" >13 ต.ค. 2566</div>
+                                                                                                                                            <div class="jobs-id-3"  style="display:none" >13 ต.ค. 2566</div>
+                                                                                                </div>
+                            <div>
+                                <a href="mailto:contact@natat.co.th" class="btn btn-outline-light rounded-pill px-5">สมัครตำแหน่งนี้</a>
+                            </div>
+                            <div>
+                                <button class="btn btn-outline-warning rounded-pill" v-on:click="activeScrollable = !activeScrollable">ดูเพิ่มเติม</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="footer mt-3">© 2023 NAT Absolute Technologies Public Company Limited | All right reserved</div>
+</div>      <div class="content is-mobile">
+  <div class="my-3">
+    <h2>ร่วมงานกับเรา</h2>
+  </div>
+  <div class="list-jobs">
+    <div class="center-panel">
+      <ul>
+                    <li  class="urgent btn-jobs"  data-id="80" v-on:click="gotoURL('it-jobs')">
+              <div class="position">เจ้าหน้าที่แผนกขาย (Account Manager)</div>
+              <div class="amount">1 ตำแหน่ง</div>
+          </li>
+                    <li  class="urgent btn-jobs"  data-id="75" v-on:click="gotoURL('it-jobs')">
+              <div class="position">เจ้าหน้าที่แผนกการตลาด</div>
+              <div class="amount">1 ตำแหน่ง</div>
+          </li>
+                    <li  class="urgent btn-jobs"  data-id="37" v-on:click="gotoURL('it-jobs')">
+              <div class="position">เลขานุการประธานเจ้าหน้าที่บริหาร (CEO)</div>
+              <div class="amount">1 ตำแหน่ง</div>
+          </li>
+                    <li  class="urgent btn-jobs"  data-id="3" v-on:click="gotoURL('it-jobs')">
+              <div class="position">System Engineer (VMWare Cloud Foundataion - VCF)</div>
+              <div class="amount">1 ตำแหน่ง</div>
+          </li>
+                </ul>
+    </div>
+  </div>
+  <div class="d-flex justify-content-center">
+    <div class="qrcode">
+        <img src="images/qr-hr-line.jpg" width="80" />
+    </div>
+    <div class="contact px-3 text-start">
+        <div>ติดต่อฝ่ายบุคคล</div>
+        <div>Line ID: nat_hr</div>
+        <div>Email: <a href="mailto:contact@natat.co.th">contact@natat.co.th</a></div>
+    </div>
+</div>
+
+</div>    </div>
+  </div>
+</div>
+    </div>
+
+            <div class="mt-3 is-mobile">
+            <footer class="bg-primary pt-5 pb-3 px-5">
+    <div class="row">
+        <div class="col-12 col-xl-2 mb-2">
+            <div class="accordion responsive">
+                <div class="accordion-item">
+                    <h5 class="accordion-header">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-about" aria-expanded="false" aria-controls="panelsStayOpen-about">
+                            เกี่ยวกับเรา
+                        </button>
+                    </h5>
+                    <div id="panelsStayOpen-about" class="accordion-collapse collapse">
+                        <div class="accordion-body">
+                            <ul class="nav flex-column">
+                                <li class="nav-item mb-2"><a href="en/vision-and-mission.html" class="nav-link p-0">ประวัติความเป็นมา วิสัยทัศน์ และ พันธกิจ</a></li>
+                                <li class="nav-item mb-2"><a href="en/board-structure.html" class="nav-link p-0">โครงสร้างการจัดการแผนผังองค์กร</a></li>
+                                <li class="nav-item mb-2"><a href="en/it-others.html" class="nav-link p-0">กฏบัตร และ นโยบายต่างๆ</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-12 col-xl-2 mb-2">
+            <div class="accordion responsive">
+                <div class="accordion-item">
+                    <h5 class="accordion-header">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-service" aria-expanded="false" aria-controls="panelsStayOpen-service">
+                            โซลูชั่นและบริการ
+                        </button>
+                    </h5>
+                    <div id="panelsStayOpen-service" class="accordion-collapse collapse">
+                        <div class="accordion-body">
+                            <ul class="nav flex-column">
+                                <li class="nav-item mb-2"><a href="en/it-communication.html" class="nav-link p-0">ธุรกิจจำหน่ายและติดตั้งอุปกรณ์ที่เกี่ยวข้องกับเทคโนโลยีสารสนเทศ และการสื่อสาร</a></li>
+                                <li class="nav-item mb-2"><a href="en/it-service.html" class="nav-link p-0">ธุรกิจให้บริการเจ้าหน้าที่ไอที</a></li>
+                                <li class="nav-item mb-2"><a href="en/it-others.html" class="nav-link p-0">ธุรกิจให้บริการอื่นๆ ที่เกี่ยวข้องกับระบบเทคโนโลยีสารสนเทศ</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-12 col-xl-2 mb-2">
+            <div class="accordion responsive mb-2 mb-xl-0">
+                <div class="accordion-item">
+                    <h5 class="accordion-header">
+                        <a href="en/partner.html" class="accordion-button fw-bolder collapsed link">
+                            พันธมิตรหลักของเรา
+                        </a>
+                    </h5>
+                </div>
+            </div>
+
+            <div class="accordion responsive">
+                <div class="accordion-item">
+                    <h5 class="accordion-header">
+                        <a href="en/customer.html" class="accordion-button fw-bolder collapsed link">
+                            ลูกค้าของเรา
+                        </a>
+                    </h5>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-12 col-xl-2 mb-2">
+            <div class="accordion responsive">
+                <div class="accordion-item">
+                    <h5 class="accordion-header">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-develop" aria-expanded="false" aria-controls="panelsStayOpen-develop">
+                            นักลงทุนสัมพันธ์
+                        </button>
+                    </h5>
+                    <div id="panelsStayOpen-develop" class="accordion-collapse collapse">
+                        <div class="accordion-body">
+                            <ul class="nav flex-column">
+                                <li class="nav-item mb-2"><a href="index.html#page5" class="nav-link p-0">ข้อมูลสำคัญทางการเงิน</a></li>
+                                <li class="nav-item mb-2"><a href="en/investor-contact.html" class="nav-link p-0">ติดต่อนักลงทุนสัมพันธ์</a></li>
+                                <li class="nav-item mb-2"><a href="en/investor-policy.html" class="nav-link p-0">นโยบายการจ่ายเงินปันผล</a></li>
+                                <li class="nav-item mb-2"><a href="en/investor-appeal.html" class="nav-link p-0">ช่องทางการร้องเรียน</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-12 col-xl-2 mb-2">
+            <div class="accordion responsive">
+                <div class="accordion-item">
+                    <h5 class="accordion-header">
+                        <a href="en/it-development.html" class="accordion-button fw-bolder collapsed link">
+                            การพัฒนาที่ยั่งยืน
+                        </a>
+                    </h5>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-12 col-xl-2 mb-2">
+            <div class="accordion responsive mb-2 mb-xl-0">
+                <div class="accordion-item">
+                    <h5 class="accordion-header">
+                        <a href="en/it-news.html" class="accordion-button fw-bolder collapsed link">
+                            ข่าวสารความเคลื่อนไหว
+                        </a>
+                    </h5>
+                </div>
+            </div>
+
+            <div class="accordion responsive mb-2 mb-xl-0">
+                <div class="accordion-item">
+                    <h5 class="accordion-header">
+                        <a href="en/it-jobs.html" class="accordion-button fw-bolder collapsed link">
+                            ร่วมงานกับเรา
+                        </a>
+                    </h5>
+                </div>
+            </div>
+
+            <div class="accordion responsive mb-2 mb-xl-0">
+                <div class="accordion-item">
+                    <h5 class="accordion-header">
+                        <a href="en/contact-us.html" class="accordion-button fw-bolder collapsed link">
+                            ติดต่อเรา
+                        </a>
+                    </h5>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="d-flex flex-column flex-sm-row justify-content-center pt-4">
+        <p>&copy; 2023 NAT Absolute Technologies Public Company Limited | All right reserved</p>
+    </div>
+</footer>        </div>
+    
+    
+	
+	<script src="js/app.js" type="text/javascript"></script>
+    <!-- Google tag (gtag.js) --> 
+    <script async src=https://www.googletagmanager.com/gtag/js?id=G-RQWZZQ4WN7></script> 
+    <script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-RQWZZQ4WN7'); </script>
+    <script src="../cdn.onefence.co/sp.cookie.min.js" type="text/javascript"></script> 
+    <script src="https://api.onefence.co/js?user=948741cf4529e97dfa508deaad848b18288a259206dee6d2e3e01f769cc1e0e0&amp;key=eacb9cb13368c95c73a8c2caa07f5df10faec1f5de41ee88413423d1d1b44167&amp;debug=Imb3gg!ingU&amp;tenant_name=general.L2dlbmVyYWwvdXNlci9kZmRmMjVjZi1lZjBiLTQwZjctODA3OS02M2RlNWQ4NTEwODI="></script>
+
+    <script>
+        $(document).ready(function() {
+            $('#popup .content').on('click', (e) => {
+                e.stopPropagation();
+            });
+            // $('#popup ,#popup .btn-close').on('click', (e) => {
+            $('#popup .btn-goto-website').on('click', (e) => {
+                sessionStorage.setItem("close_popup", true);
+                $('#popup').remove();
+            });
+            if(!sessionStorage.getItem('close_popup')) {
+                $('#popup').show();
+            }
+        });
+    </script>
+        
+
+	<script type="text/javascript" src="js/javascript.fullPage.min.js"></script>
+<script type="text/javascript" src="js/skew.js"></script>
+<script type="text/javascript" src="js/anime.min.js"></script>
+<script type="text/javascript" src="js/splide.min.js"></script>
+<script>
+  const { createApp } = Vue;
+    createApp({
+      data() {
+        return {
+          author: "Onisueka",
+          fullpage: null,
+          slidePage1Current: 0,
+          pageCurrent: 0,
+          // section1Header: "System Integator",
+          // section1Content: "ให้คำปรึกษาออกแบบโซลูชั่นด้านเทคโนโลยีสารสนเทศ<br />และการสื่อสารโทรคมนาคมแบบครบวงจร",
+          // section1URL: "it-communication",
+          sectionClass: 1,
+          activeScrollable: false
+        };
+      },
+      mounted() {
+        let self = this;
+        let logoAnime;
+        let otherLogoAnime;
+        let buttonAnime;
+        $(document).ready(function() {
+          var autoSlide;
+          var autoSlide_duration = 8000;
+          var autoSlide_eventMouseOut = false;
+          var allpages = ['page1', 'page2', 'page3', 'page4', 'page5', 'page6', 'page7', 'page8'];
+
+          $('#fullpage').fullpage({
+            anchors: allpages,
+            sectionsColor: ['#153360', '#153360', '#153360', '#153360', '#153360', '#FFFFFF', '#153360', '#FFFFFF'],
+            normalScrollElements: '.scrollable',
+            responsiveWidth: 1200,
+            responsiveHeight: 700,
+
+            // paddingTop: '5em',
+            verticalCentered: false,
+            // controlArrows: false,
+            navigation: true,
+            navigationPosition: 'right',
+            navigationTooltips: [
+              "เกี่ยวกับเรา", 
+              "โซลูชั่นและบริการของเรา", 
+              "พันธมิตรหลัก", 
+              "ลูกค้าของเรา", 
+              "นักลงทุนสัมพันธ์", 
+              "การพัฒนาที่ยั่งยืน", 
+              "ข่าวสารความเคลื่อนไหว", 
+              "ร่วมงานกับเรา"
+            ],
+            afterSlideLoad: function(section, origin, destination, direction, trigger){
+              self.slidePage1Current = destination;
+            },
+            afterLoad: function(origin, destination, direction, trigger){
+              self.pageCurrent = origin;
+              if(origin === 'page1') { // Page 1 set auto slide
+                for(const item of $(`#section${destination - 1} .video`)) {
+                  item.play();
+                }
+                let currentPage = $(`.section[data-anchor=${origin}]`);
+                  autoSlide = setInterval(() => {
+                    if($('.slide:hover').length > 0) {
+                      autoSlide_eventMouseOut = false;
+                    } else {
+                      if(!$('.dropdown-menu').hasClass('show')) {
+                        autoSlide_eventMouseOut = true;
+                      } else {
+                        autoSlide_eventMouseOut = false;
+                      }
+                    }
+
+                    if(autoSlide_eventMouseOut) {
+                      $('.fp-next', currentPage).click();
+                      setTimeout(function() {
+                        for(const item of $(`#section${destination - 1} .video`)) {
+                          item.play();
+                        }
+                      }, 100)
+                    }
+                  }, autoSlide_duration);
+              }
+
+              // if(origin === 'page2') { // Page 2
+
+              //   if(typeof logoAnime !== 'undefined') logoAnime.reset();
+
+              //   logoAnime = anime({
+              //     targets: `#section${destination - 1} .guide-line`,
+              //     autoplay: true,
+              //     translateY: '-18vh',
+              //     translateX: [
+              //       {
+              //         value: '0vw',
+              //         duration: 400,
+              //         easing: 'easeInOutSine'
+              //       },
+              //       {
+              //         value: '40vw',
+              //         duration: 800,
+              //         easing: 'easeInOutSine'
+              //       },
+              //       {
+              //         value: '80vw',
+              //         duration: 1200,
+              //         easing: 'easeInOutSine'
+              //       }
+              //     ],
+              //     rotate: [
+              //       {
+              //         value: 45,
+              //         duration: 100,
+              //         easing: 'easeInOutSine'
+              //       },
+              //       {
+              //         value: 0,
+              //         duration: 900,
+              //         easing: 'easeInOutSine'
+              //       },
+              //       {
+              //         value: 45,
+              //         duration: 200,
+              //         easing: 'easeInOutSine'
+              //       },
+              //       {
+              //         value: 0,
+              //         duration: 1200,
+              //         easing: 'easeInOutSine'
+              //       },
+              //       {
+              //         value: 45,
+              //         duration: 200,
+              //         easing: 'easeInOutSine'
+              //       },
+              //       {
+              //         value: 0,
+              //         duration: 1200,
+              //         easing: 'easeInOutSine'
+              //       }
+              //     ],
+              //     opacity: [
+              //       {
+              //         value: 1,
+              //         duration: 3000,
+              //         easing: 'easeInOutSine'
+              //       },
+              //       {
+              //         value: 0,
+              //         duration: 500,
+              //         easing: 'easeInOutSine'
+              //       }
+              //     ],
+              //     easing: 'easeOutElastic(1, .8)',
+              //     delay: function(el, i) { return i * 50; },
+              //   });
+
+              // }
+
+              if(origin === 'page3' || origin === 'page4') { // Page 3 set auto play
+                for(const item of $(`#section${destination - 1} .video`)) {
+                  item.play();
+                }
+
+                if(typeof logoAnime !== 'undefined') logoAnime.reset();
+
+                logoAnime = anime({
+                  targets: `#section${destination - 1} .logo > div`,
+                  autoplay: true,
+                  translateX: 20,
+                  translateY: -20,
+                  opacity: 1,
+                  rotate: [
+                    {
+                      value: 45,
+                      duration: 500,
+                      easing: 'easeInOutSine'
+                    },
+                    {
+                      value: 0,
+                      duration: 200,
+                      easing: 'easeInOutSine'
+                    }
+                  ],
+                  easing: 'easeOutElastic(1, .8)',
+                  delay: function(el, i) { return i * 50; },
+                });
+
+                if(typeof otherLogoAnime !== 'undefined') otherLogoAnime.reset();
+
+                otherLogoAnime = anime({
+                  targets: `#section${destination - 1} .other-logo > div`,
+                  autoplay: true,
+                  opacity: [
+                    {
+                      value: 0.5,
+                      duration: 300,
+                      easing: 'easeInOutSine'
+                    },
+                    {
+                      value: 1,
+                      duration: 200,
+                      easing: 'easeInOutSine'
+                    },
+                  ],
+                  scale: [
+                    {
+                      value: 1.2,
+                      duration: 400,
+                      easing: 'easeInOutSine'
+                    },
+                    {
+                      value: 1,
+                      duration: 200,
+                      easing: 'easeInOutSine'
+                    }
+                  ],
+                  easing: 'easeOutElastic(1, .8)',
+                  delay: 600,
+                });
+
+                if(typeof buttonAnime !== 'undefined') buttonAnime.reset();
+
+                buttonAnime = anime({
+                  targets: `#section${destination - 1} .btn-bottom`,
+                  autoplay: true,
+                  opacity: [
+                    {
+                      value: 0,
+                      duration: 200,
+                      easing: 'easeInOutSine'
+                    },
+                    {
+                      value: 0.5,
+                      duration: 200,
+                      easing: 'easeInOutSine'
+                    },
+                    {
+                      value: 1,
+                      duration: 200,
+                      easing: 'easeInOutSine'
+                    },
+                  ],
+                  scale: [
+                      {
+                        value: 1.2,
+                        duration: 450,
+                        easing: 'easeInOutSine'
+                      },
+                      {
+                        value: 1,
+                        duration: 200,
+                        easing: 'easeInOutSine'
+                      }
+                    ],
+                  delay: 600
+                });
+                
+              }
+            }
+
+          });
+
+          // $( window ).on( "resize", function() {
+          //   scaleWebsite();
+          // });
+
+          // function scaleWebsite() {
+          //   let height_limit = 750;
+          //   if($('body').innerHeight() < height_limit) {
+          //     let scale = ($('body').innerHeight()/(height_limit));
+          //     let distance = (height_limit - $('body').innerHeight()) * 0.007;
+          //     $('.is-responsive').css("transform", `scale(${scale})`);
+          //     $('.is-responsive-top').css("transform", `scale(${scale / (distance > 1 ? distance: 1.2)}) translateY(${distance > 1 ? '-25vh': '-5vh'})`);
+          //     $('.is-responsive-bottom').css("transform", `scale(${scale / (distance > 1 ? distance: 1.2) })`).css('bottom', 0);
+          //   } else {
+          //     $('.is-responsive').css("transform", `scale(1)`);
+          //     $('.is-responsive-top').css("transform", `scale(1) translateY(0)`);
+          //     $('.is-responsive-bottom').css("transform", `scale(1) translateY(0)`).css('bottom', '15vh');
+          //   }
+          // }
+
+          // scaleWebsite();
+
+          $('.btn-jobs').on('click', function() {
+            $('[class*="jobs-id-"').hide();
+            $('.jobs-id-' + $(this).data('id')).fadeIn();
+          });
+
+
+          new Splide( '#image-carousel', { arrows: false} ).mount();
+
+
+          $('#home').css({'visibility': 'visible'});
+        });
+      },
+      methods: {
+        gotoURL(url) {
+          window.location.href = url;
+        },
+        gotoSlide(num, page) {
+          const section = page.replace(/\D/g, "");
+          $.fn.fullpage.moveTo(Number(section), (num - 1));
+        },
+        // showSection1Message(message_at) {
+        //   if(message_at === 1) {
+        //     this.section1Header = "System Integator";
+        //     this.section1Content = "ให้คำปรึกษาออกแบบโซลูชั่นด้านเทคโนโลยีสารสนเทศ<br />และการสื่อสารโทรคมนาคมแบบครบวงจร";
+        //     this.section1URL = "it-communication";
+        //     this.sectionClass = 1;
+
+        //   }
+        //   if(message_at === 2) {
+        //     this.section1Header = "IT Outsourcing";
+        //     this.section1Content = "จัดหาบุคลากรที่มีความเชี่ยวชาญด้านIT เพื่อไปควบคุม<br />ดูแลแก้ไขระบบต่างๆประจำหน้างานที่ลูกค้าต้องการ";
+        //     this.section1URL = "it-service";
+        //     this.sectionClass = 2;
+        //   }
+        //   if(message_at === 3) {
+        //     this.section1Header = "Other service";
+        //     this.section1Content = "ให้บริการเดินสายระบบเน็ตเวิร์ค<br />(ระบบแลน ระบบไฟฟ้า และระบบโทรศัพท์)<br />ทั้งในและนอกอาคารโดยมืออาชีพที่พร้อมให้บริการ";
+        //     this.section1URL = "it-others";
+        //     this.sectionClass = 3;
+        //   }
+        // }
+      }
+    }).mount("#fullpage");
+</script>
+</body>
+
+
+<!-- Mirrored from www.natat.co.th/th by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 18 Dec 2023 06:06:09 GMT -->
+</html>
